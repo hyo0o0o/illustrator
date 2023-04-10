@@ -29,3 +29,11 @@ ctrl + alt + 숫자 2 --> 풀기(한꺼번에 풀림)
 - 개체 선택 후 shift + 다른개체선택 ==> 개체 2가지 이상 선택
 
 - 개체 선택 후 shift + 개체다시선택 ==> 선택 풀림
+
+## 🔍 pathfind 🔍
+
+
+<img src="https://user-images.githubusercontent.com/129016961/230850679-8e63eef1-83a2-43f3-9ae4-6e01fe0f9f78.png" width="200"> 
+
+<img src="https://user-images.githubusercontent.com/129016961/230850747-1abb6c04-2603-4b9f-802e-fc8fa9d335a5.png" width="200"> 
+
